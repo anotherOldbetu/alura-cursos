@@ -1,7 +1,8 @@
 <html>
 	<body>
-		<h1>Olá Mundo</h1>
-		<h1>Primeira Alteração</h1>
-		<h1>modificacao da Ana</h1>
+		<h1>Cursos de DevOps</h1>
+		<h2>Olá Mundo</h2>
+		<h2>Primeira Alteração</h2>
+		<h2>modificacao da Ana</h2>
 	</body>
 </html>
